@@ -1,0 +1,14 @@
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/bin/Debug/net10.0/Semana11
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/bin/Debug/net10.0/Semana11.deps.json
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/bin/Debug/net10.0/Semana11.runtimeconfig.json
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/bin/Debug/net10.0/Semana11.dll
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/bin/Debug/net10.0/Semana11.pdb
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/obj/Debug/net10.0/Semana11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/obj/Debug/net10.0/Semana11.AssemblyInfoInputs.cache
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/obj/Debug/net10.0/Semana11.AssemblyInfo.cs
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/obj/Debug/net10.0/Semana11.csproj.CoreCompileInputs.cache
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/obj/Debug/net10.0/Semana11.dll
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/obj/Debug/net10.0/refint/Semana11.dll
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/obj/Debug/net10.0/Semana11.pdb
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/obj/Debug/net10.0/Semana11.genruntimeconfig.cache
+/Users/arianita16/Desktop/C# ejercicios/Semana11/Semana11/obj/Debug/net10.0/ref/Semana11.dll
